@@ -1,0 +1,3 @@
+Rooms & Housekeeping
+Status filters: Occupied · Vacant · Dirty · OOO
+Bulk: mark clean · assign tasks · notes

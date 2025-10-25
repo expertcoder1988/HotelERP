@@ -1,0 +1,3 @@
+Navigation
+Top bar + Left menu · Breadcrumbs · Search
+Primary CTA on each page

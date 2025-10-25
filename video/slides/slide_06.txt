@@ -1,0 +1,3 @@
+Reservations Flow
+Pick dates → room → guest → payment hold
+Availability calendar · Rate plans · Conflict validation
