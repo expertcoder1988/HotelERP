@@ -1,0 +1,3 @@
+Core Modules
+Reservations · Guests · Rooms · Billing · Reports · Settings
+Consistent UI, clear navigation, keyboard shortcuts

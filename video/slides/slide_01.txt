@@ -1,0 +1,2 @@
+Hotel Management System Front-End
+Fast, intuitive, responsive UI for modern hotels

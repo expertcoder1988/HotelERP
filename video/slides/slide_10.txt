@@ -1,0 +1,3 @@
+Tech Stack & Next Steps
+React · TypeScript · Tailwind · Zustand · Vite
+Roadmap: Kiosk mode · Mobile PWA · RBAC
